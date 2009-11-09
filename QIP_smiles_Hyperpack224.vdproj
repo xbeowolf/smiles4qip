@@ -3,7 +3,7 @@
 "VSVersion" = "3:800"
 "ProjectType" = "8:{978C614F-708E-4E1A-B201-565925725DBA}"
 "IsWebType" = "8:FALSE"
-"ProjectName" = "8:QIP_smiles_Hyperpack"
+"ProjectName" = "8:QIP_smiles_Hyperpack224"
 "LanguageId" = "3:1033"
 "CodePage" = "3:1252"
 "UILanguageId" = "3:1033"
@@ -1389,7 +1389,7 @@
         "DisplayName" = "8:Debug"
         "IsDebugOnly" = "11:TRUE"
         "IsReleaseOnly" = "11:FALSE"
-        "OutputFilename" = "8:bin\\QIP_smiles_Hyperpack.msi"
+        "OutputFilename" = "8:bin\\QIP_smiles_Hyperpack224.msi"
         "PackageFilesAs" = "3:2"
         "PackageFileSize" = "3:-2147483648"
         "CabType" = "3:1"
@@ -1421,7 +1421,7 @@
         "DisplayName" = "8:Release"
         "IsDebugOnly" = "11:FALSE"
         "IsReleaseOnly" = "11:TRUE"
-        "OutputFilename" = "8:bin\\QIP_smiles_Hyperpack.msi"
+        "OutputFilename" = "8:bin\\QIP_smiles_Hyperpack224.msi"
         "PackageFilesAs" = "3:2"
         "PackageFileSize" = "3:-2147483648"
         "CabType" = "3:1"
@@ -6084,21 +6084,21 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:QIP smiles Hyperpack"
         "ProductCode" = "8:{4C95D720-0ABD-4EC5-9DF6-1A02271B86AF}"
-        "PackageCode" = "8:{D48E8781-837D-4686-8322-9B6C7CF0C39A}"
+        "PackageCode" = "8:{939AA85C-B156-40BF-824E-B654CBAE0FA7}"
         "UpgradeCode" = "8:{3F40D8B0-2126-4A13-B4A1-81CD6C206E1E}"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:TRUE"
         "DetectNewerInstalledVersion" = "11:FALSE"
-        "InstallAllUsers" = "11:FALSE"
-        "ProductVersion" = "8:1.0.0"
+        "InstallAllUsers" = "11:TRUE"
+        "ProductVersion" = "8:1.1.0"
         "Manufacturer" = "8:BEOWOLF"
-        "ARPHELPTELEPHONE" = "8:+380684862837, icq 320-329-575"
+        "ARPHELPTELEPHONE" = "8:+380684862837, icq 320329575"
         "ARPHELPLINK" = "8:"
-        "Title" = "8:QIP smiles Hyperpack by BEOWOLF"
-        "Subject" = "8:Extended smiles for QIP"
+        "Title" = "8:QIP smiles Hyperpack, packed by BEOWOLF"
+        "Subject" = "8:Extended set of 224 smiles for QIP"
         "ARPCONTACT" = "8:Podobashev Dmitry"
         "Keywords" = "8:QIP; smiles"
-        "ARPCOMMENTS" = "8:QIP smiles hyperpack"
+        "ARPCOMMENTS" = "8:QIP smiles hyperpack 224"
         "ARPURLINFOABOUT" = "8:mailto:xbeowolf@gmail.com"
         "ARPPRODUCTICON" = "8:_2E5BD3C7267447EB811FEF6588C9DADE"
         "ARPIconIndex" = "3:0"
@@ -6124,20 +6124,6 @@
                     "Transitive" = "11:FALSE"
                         "Keys"
                         {
-                            "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_98C8F99ED18B40A3BED82CF3A1634A6B"
-                            {
-                            "Name" = "8:[Manufacturer]"
-                            "Condition" = "8:"
-                            "AlwaysCreate" = "11:FALSE"
-                            "DeleteAtUninstall" = "11:FALSE"
-                            "Transitive" = "11:FALSE"
-                                "Keys"
-                                {
-                                }
-                                "Values"
-                                {
-                                }
-                            }
                         }
                         "Values"
                         {
@@ -6158,20 +6144,6 @@
                     "Transitive" = "11:FALSE"
                         "Keys"
                         {
-                            "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_E93D344F264A4717ACF50A950233C1E1"
-                            {
-                            "Name" = "8:[Manufacturer]"
-                            "Condition" = "8:"
-                            "AlwaysCreate" = "11:FALSE"
-                            "DeleteAtUninstall" = "11:FALSE"
-                            "Transitive" = "11:FALSE"
-                                "Keys"
-                                {
-                                }
-                                "Values"
-                                {
-                                }
-                            }
                         }
                         "Values"
                         {
