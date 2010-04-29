@@ -1,7 +1,7 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 9.00
-# Visual Studio 2005
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "QIP_smiles_Hyperpack224", "QIP_smiles_Hyperpack224.vdproj", "{6A1A1720-1F39-45B8-8025-3DCEAF66F6B7}"
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "QIP_smiles_Hyperpack224", "QIP_smiles_Hyperpack224.VS2008.vdproj", "{6A1A1720-1F39-45B8-8025-3DCEAF66F6B7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
